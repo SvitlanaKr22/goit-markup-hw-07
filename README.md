@@ -1,5 +1,5 @@
-# goit-markup-hw-05
-homework 5 
-positional elements
+# goit-markup-hw-07
+homework 7 
+SASS + BEM
 
  
