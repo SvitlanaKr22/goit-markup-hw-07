@@ -7,7 +7,7 @@
 .footer__content{
     display: flex;
     align-items: baseline;
-    gap: 94px;
+    justify-content: space-between;
 }  
 
 .footer__list-link:not(:last-child){
